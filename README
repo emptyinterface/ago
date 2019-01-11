@@ -1,0 +1,6 @@
+ago
+
+a quick and dirty parser for timestamps that are in similar form to "1 hour ago".
+
+
+LICENSE: MIT
